@@ -2,6 +2,8 @@
 
 An AI-powered assistant that helps renters understand their rights, generate legal documents, track rent and issues, and find local legal aid — all through an intuitive Streamlit web app.
 
+> ✨ Built by **Ngoubi Maximillian Diangha**
+
 ---
 
 ## 🎯 Features
@@ -28,3 +30,52 @@ An AI-powered assistant that helps renters understand their rights, generate leg
    ```bash
    git clone https://github.com/ngoubimaximillian12/tenant_legal_assistant.py.git
    cd tenant_legal_assistant.py
+Create and activate a virtual environment
+
+bash
+Copy
+Edit
+python3 -m venv .venv
+source .venv/bin/activate
+Install dependencies
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run the app
+
+bash
+Copy
+Edit
+streamlit run tenant_legal_assistant.py
+🛡️ License
+MIT License – open-source and available for modification or self-hosting.
+
+🤝 Contributing
+Pull requests are welcome! You can also:
+
+Add new legal templates
+
+Translate the UI
+
+Improve integrations (Twilio, Google Calendar, etc.)
+
+👨‍💻 Creator
+Ngoubi Maximillian Diangha
+GitHub
+
+Built with ❤️ to protect renters from legal exploitation.
+
+yaml
+Copy
+Edit
+
+---
+
+Let me know if you want:
+- A version with images/screenshots
+- A deployment badge (e.g., "Open in Streamlit Cloud")
+- Credits to legal contributors or partners
+
+Would you like me to push this file to your repo as well?
